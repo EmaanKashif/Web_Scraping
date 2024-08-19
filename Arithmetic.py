@@ -50,4 +50,3 @@ print("^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^")
 
 problems2 = ["44 - 7", "102 - 5600", "9999 - 9999", "716 - 27"]
 print(arithmetic_arranger(problems2, True))
-
